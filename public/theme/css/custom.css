@@ -1,0 +1,67 @@
+.carousel {
+    width:800px;
+    height:450px;
+    margin: auto;
+    margin-bottom: 10%;
+    
+  }
+.carousel img {
+    height: 450px;
+}
+
+
+  .card-img, .card-img-top, .card-img-bottom {
+    width: 190px !important;
+    height:220px;
+    margin-left: 10%;
+}
+
+
+.carousel img {
+    border: hidden;
+    border-radius: 7%;
+}
+
+.img img:hover {
+    position:relative;
+    top: -5px;
+    left: -30px;
+    width: 200px;
+    height:250;
+    display:block;
+    z-index:999;
+    cursor:pointer;
+}
+.card-img, .card-img-top2, .card-img-bottom {
+  width: 300px !important;
+  height:220px;
+  margin-left: 10%;
+ 
+}
+.aboutus {
+    
+  text-align: center;
+  margin-top: 10%;
+}
+.aboutus img {
+  width:800px;
+  height: auto;
+  border: hidden;
+  border-radius: 10px;
+  margin-top: 1em;
+  margin-bottom: 10%;
+}
+.aboutus h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #b188bcc6;
+  font-size: 40pt;
+}
+.aboutus p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #367978f7;
+  line-height: 2em;
+  text-align: left;
+  width: 700px;
+  margin:auto;
+  font-size:14pt;
+}
